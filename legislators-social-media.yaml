@@ -3038,18 +3038,6 @@
     twitter_id: 1048784496
     instagram: repkevincramer
 - id:
-    bioguide: C001092
-    thomas: '02151'
-    govtrack: 412563
-  social:
-    twitter: RepChrisCollins
-    facebook: RepChrisCollins
-    youtube: RepChrisCollins
-    youtube_id: UCSwQQJaKI4TzuYDUwHwwnxQ
-    instagram: repchriscollins
-    instagram_id: 379808544
-    twitter_id: 1058256326
-- id:
     bioguide: W000812
     thomas: '02137'
     govtrack: 412548
@@ -4955,3 +4943,21 @@
   social:
     twitter: CongressmanJVD
     twitter_id: 1083469084648505344
+- id:
+    bioguide: K000395
+    govtrack: 412843
+  social:
+    twitter: RepFredKeller
+    facebook: CongressmanFredKeller
+    youtube_id: UC_IluBx9m7HWoNhEYSoPQNQ
+    twitter_id: 1136060761422405633
+    instagram: repfredkeller
+- id:
+    bioguide: S001204
+    govtrack: 412770
+  social:
+    twitter: GuamCongressman
+    facebook: CongressmanMichaelF.Q.SanNicolas
+    youtube_id: UCVroMJWH3jsh4shPSlp24sw
+    twitter_id: 346509049
+    instagram: michael.fq.san.nicolas
