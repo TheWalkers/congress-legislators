@@ -4292,11 +4292,6 @@
     twitter: RepAGonzalez
     twitter_id: 1054381765224210432
 - id:
-    bioguide: G000589
-  social:
-    twitter: RepLanceGooden
-    twitter_id: 412595957
-- id:
     bioguide: R000610
   social:
     twitter: GReschenthaler
@@ -4556,12 +4551,6 @@
     twitter: RepMariaSalazar
     twitter_id: 1325928411689349120
 - id:
-    bioguide: D000032
-    govtrack: 456808
-  social:
-    twitter: RepByronDonalds
-    twitter_id: 1343968646050283522
-- id:
     bioguide: F000472
     govtrack: 456807
   social:
@@ -4675,3 +4664,27 @@
   social:
     twitter: SenLummis
     twitter_id: 22831059
+- id:
+    bioguide: L000273
+    govtrack: 456835
+  social:
+    twitter: RepTeresaLF
+    twitter_id: 1345147845926670337
+- id:
+    bioguide: O000019
+    govtrack: 456801
+  social:
+    twitter: JayObernolte
+    twitter_id: 272482466
+- id:
+    bioguide: S001159
+    govtrack: 456854
+  social:
+    twitter: RepStricklandWA
+    twitter_id: 1343646545955213312
+- id:
+    bioguide: G000594
+    govtrack: 456849
+  social:
+    twitter: RepTonyGonzales
+    twitter_id: 1343627416120532992
